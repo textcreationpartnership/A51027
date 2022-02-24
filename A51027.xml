@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Rider's Answer to the false and scandalous reflections and allegations in Warner's Case; and petition of the mayor and jurors of Deal</title>
+            <author>Rider, Mr.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699-1700?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51027</idno>
+            <idno type="STC">Wing M2273</idno>
+            <idno type="STC">ESTC R221888</idno>
+            <idno type="EEBO-CITATION">99833133</idno>
+            <idno type="PROQUEST">99833133</idno>
+            <idno type="VID">37608</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51027)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37608)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2191:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Rider's Answer to the false and scandalous reflections and allegations in Warner's Case; and petition of the mayor and jurors of Deal</title>
+                  <author>Rider, Mr.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.);   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>c. 1699-1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>With docket title: Mr. Rider[']s answer to the false and scandalous reflections and allegation in a petition of the mayor and jurors of Deal; and Warner's Case.</note>
+                  <note>In answer to Warner, William.  The case of William Warner, gent. relating to his water-works at Deale.;  Concerning the dispute between Warner and William Rider as to who should buildthe new waterworks at Deal in Kent.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Warner, William, fl. 1700-1701. --  Case of William Warner, gent. relating to his water-works at Deale --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:37608:1" rendition="simple:additions"/>
+            <head>Mr. <hi>RIDER's</hi> ANSWER TO The Falſe and Scandalous Reflections and Allegations in <hi>Warner's CASE;</hi> and <hi>PETITION</hi> of the Mayor and Jurors of <hi>Deal.</hi>
+            </head>
+            <p>THE two firſt Paragraphs relating to <hi>Warner's</hi> Project, begun without any Grant, or Lawful Authority, contrary to the Letters Patents granted to Mr. <hi>Burditt,</hi> and Mr. <hi>Rider,</hi> in order to deſtroy their Right, having been debated and determined already by this Hourable Houſe, will need no further Reply.</p>
+            <p>And although Mr.<hi> Burditt's</hi> Name, as a Promoter of this Undertaking, be firſt men<g ref="char:EOLhyphen"/>tion'd in the Grant; his Share, by Agreement, is and was to be but one Fifth Part, after all Charges and Expences are deducted; for by Mr. <hi>Rider's</hi> Intereſt, and with his Money, the ſame was procured, who is not only concerned as a Patentee, but, till his Mortgage be ſatisfied, is alſo the ſole Proprietor thereof, in his own Right, and not my Lord <hi>Griffin's,</hi> as is falſly ſuggeſted.</p>
+            <p>That the Granting Patents for New Inventions, and Works of this nature, together with the liberty to break up High-ways, Streets and Paſſages, for Publick Uſes, notwith<g ref="char:EOLhyphen"/>ſtanding <hi>Warner's</hi> Opinion to the contrary, are Rights belonging to the Prerogative of the Crown; and without breaking up the High-ways, Streets and Paſſages between the North River and <hi>Deal,</hi> the ſaid Town and Port cannot be ſupplied with Freſh Water, as it hath been repreſented to this Honourable Houſe already, when <hi>Warner's</hi> Bill was rejected, to make way for Mr. <hi>Rider's.</hi>
+            </p>
+            <p>It's a ſign of a very bad Cauſe, when falſe and ſcandalous Reflections and Allegations are made uſe of the ſupport it; and of a worſe conſtitution, when Intereſt, which is too apt to blind Corporations, can prevail with them to commit ſuch groſs Miſtakes under their Hands, as are contained in the <hi>Petition</hi> preſented to this Honourable Houſe by the Mayor and Jurors of Deal, to obſtruct Mr. Rider's Proceedings.</p>
+            <p>But plainer Proofs, and ſtronger Evidence cannot be had to juſtifie the Patentees Pro<g ref="char:EOLhyphen"/>ceedings, and confute and detect the Falſe and Scandalous Reflections and Allegations in the ſaid Petition and Caſe of <hi>Warner's,</hi> than the very Propoſals and Contracts to which they referr themſelves, Subſcribed by One Hundred Sixty Eight of the Inhabitants of the ſaid Town of <hi>Deal,</hi> made between <hi>Edmund Clifford</hi> of <hi>Grays-Inn,</hi> to whom the Patentees Aſſigned their Intereſt, and the ſaid Subſcribers only; notwithſtanding what is alledged and inſinuated in the beginning of the Petition, and middle of <hi>Warner's</hi> Caſe to the contrary.</p>
+            <p>Nor were there any other Perſon or Perſons employ'd in the propoſing, procuring or taking the ſaid Subſcriptions, than Mr. <hi>William Feudall,</hi> His preſent Majeſty's Store-keeper at <hi>Deal,</hi> and Mr. <hi>Robinſon,</hi> who was not ſent thither on this Account, as is falſly alledged, but had been there ſome Months before, in order to retrieve a <hi>Houy</hi> ſunk in the ſmall <hi>Dowas,</hi> and therefore recommended by <hi>Henry Sawyer,</hi> 
+               <abbr>Eſq</abbr> a Councellor of the <hi>Temple,</hi> as a proper Perſon to Supervize this Work, and Aſſiſt Mr. <hi>Feudall</hi> in procuring the ſaid Sub<g ref="char:EOLhyphen"/>ſcriptions; as by the Teſtimony of Captain <hi>Smith,</hi> who engaged Mr. <hi>Feudall</hi> in this Un<g ref="char:EOLhyphen"/>dertaking, and was twice down himſelf during that Tranſaction, to view and lay out the Ground between the North River and <hi>Deal,</hi> will appear.</p>
+            <p>Which Contracts and Subſcriptions were taken on or about the 13th. of <hi>December,</hi> 1694. and were in the following Month of <hi>February</hi> finiſhed, and ſent up to Mr. <hi>Sawyer,</hi> as by the Dates of the ſaid Contracts and Letters from the ſaid Mr. <hi>Feudal</hi> and <hi>Robinſon</hi> moſt evidently appear, which was Twelve Months before the late Plot: And yet 'tis poſitively affirm'd, both in the <hi>Petition,</hi> and <hi>Warner's Caſe,</hi> That the ſaid Subſcriptions were taken by <hi>Cole,</hi> alias <hi>Hall,</hi> together with <hi>Robinſon</hi> and <hi>Gellibrand,</hi> at the time of the late Plot when ſearch was made after them, and by no other Perſon.</p>
+            <p>What Credit therefore can be given to Men who take the liberty to aſperſe others in ſo falſe and ſcandalous a manner? And to make this more monſtrous, Twelve of the Sub<g ref="char:EOLhyphen"/>ſcribers to the <hi>Petition</hi> are Subſcribers to thoſe very Contracts which apparently con<g ref="char:EOLhyphen"/>tradict the <hi>Petition</hi> in Point of Time, and Matter of Fact.</p>
+            <p>
+               <pb facs="tcp:37608:2" rendition="simple:additions"/>
+That <hi>Robinſon's</hi> Name is mention'd in Sir <hi>John Friend's</hi> Tryal, on Examination appears to be true, but not as a Party concerned in the Plot, as is alledged: But ſuppoſe he had been employed about the time of the Plot, and had been guilty to Treaſon, Murther, or any other Capital Crime, that ought no more to affect this Undertaking, than Mr. <hi>Rider's</hi> Confinement in the <hi>Fleet</hi> that time, with many more innocent Gentlemen; unleſs his being deprived of his Liberty then, can be thought a good Argument now to deprive him of his Right alſo, though never concerned, directly or indirectly, in any Plot or Deſign againſt the King or Goverment.</p>
+            <p>The next Paragraph contains a falſe Recital of Mr. <hi>Rider's</hi> Caſe, and from an Infe<g ref="char:EOLhyphen"/>rence grounded on that Foundation, <hi>Warner</hi> wou'd Inſinuate, that the 2500 l. raiſed by Mr. <hi>Rider,</hi> ſome months before the Revolution, to defray the Charge and Expence of the Patent, and Undertaking, was applied eight Years after in a Correſpondence with <hi>France;</hi> which no body ſure but <hi>Warner</hi> wou'd offer to this Honourable Houſe, for a Reaſon to obſtruct Mr. <hi>Rider's</hi> Bill, brought in by their Order, after the Matter of Right had been conteſted and determined by them.</p>
+            <p>And that no New Objection of <hi>Warner's</hi> may be left unanſwer'd, Mr. <hi>Sawyer</hi> before<g ref="char:EOLhyphen"/>mention'd was the Perſon who propos'd to Mr. <hi>Rider</hi> to Raiſe Money to Carry on and Accompliſh the ſaid Work and Undertaking; and upon that ſcore became concern'd in the Management. But a Diſpute ariſing between them, Whether the Money that had been Raiſed, or what was to be Raiſed, ſhould be firſt ſatisfied; for want of an Accom<g ref="char:EOLhyphen"/>modation in that Point, the Work was obſtructed, after the Engineer had made his Computation, the Ground was laid out, and the Subſcriptions were procured, as by the ſeveral Draughts, Computations, and Subſcriptions moſt plainly appear. Which Objection is now out of doors; ſince Mr. <hi>Rider</hi> is Reſolved, and has Undertaken to Carry on the ſaid Work himſelf, in a better and more certain manner, for the Uſe both of the Town and Shipping, than <hi>Warner</hi> can pretend to; whoſe chief Expence hath been in ſinking a Well; which, in the Opinion of the moſt able Engineers, will never ſupply both the Town, and Shipping with freſh Water, when any number of Men of War and Mer<g ref="char:EOLhyphen"/>chant Ships are riding and abiding in the <hi>Downs.</hi>
+            </p>
+            <p>And unleſs better Arguments can be produced, to ſupport this Inconſiderate <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>taking of Warner's, than hitherto appears, Mr. <hi>Rider</hi> hopes he ſhall not meet with more Obſtructions to deprive him of his Right, and hin<g ref="char:EOLhyphen"/>der ſo good and neceſſary a Work; which is the Deſign of that Falſe and Scandalous Petition, and Malicious Caſe of <hi>Warners.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
